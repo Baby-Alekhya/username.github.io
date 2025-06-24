@@ -1,0 +1,28 @@
+/* Page styling */
+body {
+  background-color: #f4f4f4;
+  font-family: 'Segoe UI', sans-serif;
+  text-align: center;
+  padding-top: 100px;
+  color: #333;
+}
+
+h1 {
+  color: #2e86de;
+  font-size: 36px;
+}
+
+button {
+  margin-top: 20px;
+  padding: 10px 25px;
+  font-size: 16px;
+  background-color: #27ae60;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #1e8449;
+}
